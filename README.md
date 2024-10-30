@@ -35,6 +35,10 @@ Projeinin resimleri
 
 ![image](https://github.com/user-attachments/assets/018b1a84-0192-4ba4-849d-f3bb23a69bec)
 
+Projenin akış şeması
+
+![Ekran görüntüsü 2024-10-31 012244](https://github.com/user-attachments/assets/efddd982-7bd1-469d-8e81-714a01d48490)
+
 
 
 
